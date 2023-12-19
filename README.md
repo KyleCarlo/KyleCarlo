@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KyleCarlo
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning deep learning models
+- 👀 I’m currently taking the course Bachelor of Science in Computer Science and Master of Science in Computer Science
+- 🌱 I’m am interested in data science stuffs and learning deep learning models
 - 💞️ I’m looking to collaborate on computational science, mainly in physics
 - 📫 You can contact me in my e-mail address, kyle_lasala@dlsu.edu.ph
 
