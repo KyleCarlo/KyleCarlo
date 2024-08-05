@@ -2,7 +2,7 @@
 - 👀 I’m currently taking the course Bachelor of Science in Computer Science and Master of Science in Computer Science
 - 🧑‍💻 I’m a full-stack Nextjs Developer
 - 🌱 I’m interested in data science stuff and learning deep learning models
-- 💞️ I’m looking to collaborate on computational science, mainly in physics
+- ⚛️ I’m currently studying quantum computing
 - 📫 You can contact me at my e-mail address, kyle_lasala@dlsu.edu.ph
 
 <!---
