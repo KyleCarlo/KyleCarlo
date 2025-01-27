@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KyleCarlo
+# 👋 Hi, I’m @KyleCarlo
 - 👀 I’m currently taking the course Bachelor of Science in Computer Science and Master of Science in Computer Science
 - 🧑‍💻 I’m a full-stack Nextjs Developer
 - 🌱 I’m interested in data science stuff and learning deep learning models
