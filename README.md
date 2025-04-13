@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @KyleCarlo
+## 👋 Hi, I’m @KyleCarlo
 - 👀 I’m currently taking the course Bachelor of Science in Computer Science and Master of Science in Computer Science
 - ⚛️ I’m currently studying and doing research in quantum computing
 - 🔬 I want to become a researcher
