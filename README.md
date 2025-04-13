@@ -1,6 +1,9 @@
 # 💫 About Me:
-# 👋 Hi, I’m @KyleCarlo<br>- 👀 I’m currently taking the course Bachelor of Science in Computer Science and Master of Science in Computer Science<br>- ⚛️ I’m currently studying quantum computing<br>- 🔬 I want to become a researcher<br>- 🧑‍💻 I’m a full-stack Nextjs Developer<br>- 🌱 I’m also interested in data science stuff and learning deep learning models<br>- 📫 You can contact me at my e-mail address, kyle_lasala@dlsu.edu.ph
-
+👋 Hi, I’m @KyleCarlo
+- 👀 I’m currently taking the course Bachelor of Science in Computer Science and Master of Science in Computer Science
+- ⚛️ I’m currently studying and doing research in quantum computing
+- 🔬 I want to become a researcher
+- 🌱 I’m also interested in data science stuff and learning deep learning models
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kylecarlo/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kyle_lasala@dlsu.edu.ph) 
